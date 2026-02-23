@@ -1,4 +1,4 @@
-# Bit-Vector Compatibility & Clique Solver
+# Data-compression via Clique Partitioning CLI Tool
 
 A high-performance C++ tool designed to analyze sets of bit-vectors (containing 0, 1, and X don't-care bits) to find compatible groupings (Cliques) and merge them into optimized dictionary entries.
 
